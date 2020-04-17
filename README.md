@@ -4,6 +4,7 @@
 
   1. What is Code Tab ?
      * Files in Code Tab
+       * Place where all the files in the specific branch is displayed
   1. What is Issues tab ?
   1. Pull Requests Tab ?
   1. Projects Tab ?
