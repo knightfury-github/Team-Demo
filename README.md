@@ -46,5 +46,3 @@
   1. Multiple assignees for issues and PRs
   1. Multiple reviewers for PRs
   1. Branch protection rules.
-
-> Pramodh Kumar M
