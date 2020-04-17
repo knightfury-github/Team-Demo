@@ -11,28 +11,29 @@
   ## Working around with Issues and Projects
   
   **Issues**
-    1. Assignee
-    1. Labels
-    1. Projects
-    1. Milestones
-    1. Linked Pull Requests
+  
+  1. Assignee
+  1. Labels
+  1. Projects
+  1. Milestones
+  1. Linked Pull Requests
   
   **Projects**
   
-    1. Reviewers
-    1. Assignee
-    1. Labels
-    1. Projects
-    1. Milestones
-    1. Linked Issues
+  1. Reviewers
+  1. Assignee
+  1. Labels
+  1. Projects
+  1. Milestones
+  1. Linked Issues
     
 ## Project
 
-  1. Types of Projects
-    * None
-    * Basic Kanban
-    * Automated Kanban
-    * Automated Kanban with reviewers
+1. Types of Projects
+   * None
+   * Basic Kanban
+   * Automated Kanban
+   * Automated Kanban with reviewers
   
 
 ## Private Repository Limitations
