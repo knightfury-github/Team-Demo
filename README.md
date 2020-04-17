@@ -47,4 +47,4 @@
   1. Multiple reviewers for PRs
   1. Branch protection rules.
 
-Pramodh Kumar M [#2](https://github.com/whiletrueisinfinity/Team-Demo/issues/2)
+Pramodh Kumar M #+2
